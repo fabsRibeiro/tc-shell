@@ -1,0 +1,2 @@
+#!/bin/bash
+echo fmt | cat /etc/passwd
