@@ -1,2 +1,2 @@
 #!/bin/bash
-echo fmt | cat ../iacta | grep -n ^ | grep ^3:
+echo fmt | cat ~/iacta | grep -n ^ | grep ^3:
