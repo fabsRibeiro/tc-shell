@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat /etc/passwd | /etc/hosts
+echo fmt | cat /etc/passwd  /etc/hosts
