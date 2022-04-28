@@ -1,0 +1,2 @@
+#!/bin/bash
+echo fmt | cat ../iacta | grep -n ^ | grep ^3:
